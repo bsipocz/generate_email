@@ -1,0 +1,7 @@
+Example of generating e-mail with multiple fields.
+
+Usage:
+
+    bash generate_email.sh email
+
+Careful, ancient stuff, originally was used in a project in 2011.
